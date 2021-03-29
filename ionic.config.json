@@ -1,7 +1,0 @@
-{
-  "name": "IonicReactCamera",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
