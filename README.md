@@ -1,6 +1,5 @@
-# Learn how to create NFTs on Tezos using Taquito and Pinata
+# Simple NFT mint page
 
-##### This is a tutorial dapp to show how to create NFTs on Tezos with Taquito and Pinata
 
 Structure of the project
 
